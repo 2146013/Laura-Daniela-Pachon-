@@ -1,5 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
+"""
+Esta libreria se requiere para las operaciones básicas de números complejos que ayudara a determinar la suma, resta, producto, división
+a demás de esto también sera posible calcular el conjugado y el modulo de números complejos. Ests funciones realizará la conversión
+de números polares a cartesianas y calcular la fase para poder ubicar de una manera mas facil los angulos o radianes 
+en un plano cartesiano.
+"""
 
 # ## Reprecentacion de un numero complejo 
 # El numero complejo $a+ib$ lpo representaremos mediante la lista: \[a,b\]
