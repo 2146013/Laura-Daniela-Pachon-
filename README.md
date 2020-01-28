@@ -1,1 +1,1 @@
-![Ebook navegador](https://www.escuelaing.edu.co/uploads/logosimbolo/2059_5.jpg)
+![Ebook navegador](https://d1oypclhmob1br.cloudfront.net/uploads/event/details_images/4983/LOGO_COLOR_ESCUELA.JPG)
