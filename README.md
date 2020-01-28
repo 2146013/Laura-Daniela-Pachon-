@@ -25,6 +25,10 @@ El proyecto implementa una libreria con las siguientes operaciones para los nume
 9. Elevar un numeor a una potencia determinada.
 ___
 
-# DOCUMENTACION 
+### DOCUMENTACION 
 
 Ver la documentacion en el siguente enlace [DOCUMENTO](https://github.com/2146013/Laura-Daniela-Pachon-/blob/master/NUMEROS%20COMPLEJO%20JUPYTER.py)
+___
+
+### EJEMPLOS 
+Ver las imagenes de prueba en el siguinte link [IMAGENES]
