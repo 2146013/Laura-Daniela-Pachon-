@@ -31,4 +31,8 @@ Ver la documentacion en el siguente enlace [DOCUMENTO](https://github.com/214601
 ___
 
 ### EJEMPLOS 
-Ver las imagenes de prueba en el siguinte link [IMAGENES]
+Ver las imagenes de prueba en el siguinte link [IMAGENES](https://github.com/2146013/Laura-Daniela-Pachon-/blob/master/imagen%20prueba.docx)
+___
+
+### PRUEBAS 
+Para visualizar el archivo de pruebas de click en el siguiente enlace, el encontrara la manera para poder ejecutar cada instruccion: [TEST](
