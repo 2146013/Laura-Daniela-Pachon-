@@ -27,7 +27,7 @@ ___
 
 ### DOCUMENTACION 
 
-Ver la documentacion en el siguente enlace [DOCUMENTO](https://github.com/2146013/Laura-Daniela-Pachon-/blob/master/NUMEROS%20COMPLEJO%20JUPYTER.py)
+Ver la documentacion en el siguente enlace [DOCUMENTO](https://github.com/2146013/Laura-Daniela-Pachon-/blob/master/COMPLEJOS.py)
 ___
 
 ### EJEMPLOS 
