@@ -31,7 +31,7 @@ Ver la documentacion en el siguente enlace [DOCUMENTO](https://github.com/214601
 ___
 
 ### EJEMPLOS 
-Ver las imagenes de prueba en el siguinte link [IMAGENES](https://github.com/2146013/Laura-Daniela-Pachon-/blob/master/imagen%20prueba.docx)
+Ver las imagenes de prueba en el siguinte link [IMAGENES](https://github.com/2146013/Laura-Daniela-Pachon-/blob/master/PRUEBA%20EN%20IMAGEN.docx)
 ___
 
 ### PRUEBAS 
