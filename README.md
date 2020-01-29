@@ -35,4 +35,4 @@ Ver las imagenes de prueba en el siguinte link [IMAGENES](https://github.com/214
 ___
 
 ### PRUEBAS 
-Para visualizar el archivo de pruebas de click en el siguiente enlace, el encontrara la manera para poder ejecutar cada instruccion: [TEST](https://github.com/2146013/Laura-Daniela-Pachon-/blob/master/test.py)
+Para visualizar el archivo de pruebas de click en el siguiente enlace, el encontrara la manera para poder ejecutar cada instruccion: [TEST](https://github.com/2146013/Laura-Daniela-Pachon-/blob/master/TEST.py)
